@@ -1,0 +1,28 @@
+Charsets, Tilesets & Sprites:
+
+Schnecke
+onionengod
+PandaMaru
+Jonas Dero
+Tsukihime
+Hazure
+Rainbow Jello
+Recife
+Shiro
+Kanapczynski
+SFOG
+Yoshi
+GrandmaDeb
+Mack
+Indra
+Liberty
+SORUVE
+Rina Aone
+Razvan Sedekiah
+
+Scripts:
+
+Yanfly
+Galv
+Another Fen
+Hime
